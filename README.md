@@ -5,4 +5,4 @@ Which is is taken from indivisual Youtube videos. Hindi Transcription is also pr
 
 Transcription dataset contains the ready to use dataset which is combined text
 of all the fraud calls from folder "indivisual transcipt files" 
-and the audio files for the same are provided in "audio dataset" folder.
+and the audio files for the same are provided in "Fraudcalls audio" folder.
