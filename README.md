@@ -1,4 +1,4 @@
-# Fraud phone calls dataset Hindi
+# Fraud call dataset Hindi
 
 This repository contains Hindi fraud call dataset of over 25 hours of audio call recordings.
 Which is is taken from indivisual Youtube videos. Hindi Transcription is also provided along with it.
